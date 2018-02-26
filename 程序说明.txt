@@ -1,0 +1,15 @@
+➜  test node -v v8.9.3
+➜  test npm -v  5.5.1
+➜  test express --version 4.15.5
+
+https://github.com/zengj8/bbs
+使用 Express + MongoDB 搭建多人博客
+
+
+1. myblog目录为完全参照N-bolg写的第一个node.js程序。测试通过
+https://github.com/nswbmw/N-blog
+
+
+需要细看的知识点：
+1. restful设计风格
+2. connect-redis  缓存redis
